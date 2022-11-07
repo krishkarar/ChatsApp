@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "828585882719",
+    "project_id": "chatsapp-b81ee",
+    "storage_bucket": "chatsapp-b81ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828585882719:android:b692587111e0ed5dc1d7ea",
+        "android_client_info": {
+          "package_name": "comKush.example.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828585882719-8pi2f8etnlv1siogorf6oi3f66gr1oep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehp2q3zLGSf5n-3o9AZPQVtXHeRc-ing"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828585882719-8pi2f8etnlv1siogorf6oi3f66gr1oep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828585882719:android:bebcac9ee60cc204c1d7ea",
+        "android_client_info": {
+          "package_name": "comKushagra.example.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828585882719-8pi2f8etnlv1siogorf6oi3f66gr1oep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehp2q3zLGSf5n-3o9AZPQVtXHeRc-ing"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828585882719-8pi2f8etnlv1siogorf6oi3f66gr1oep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
